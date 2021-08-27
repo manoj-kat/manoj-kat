@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manoj-kat
 - 👀 I’m interested in front-End web development and designing UI
-- 🌱 I’m currently learning JS and a long way ahead to my goal.
+- 🌱 I’m currently learning JS and heading long way towards my goal.
 - 💞️ I’m looking to collaborate on "let u know soon bud"
 - 📫 How to reach me so simple drop a <"mailto: kamal572@protonmail.com"> how about Discord 🔥 @saul_gudman#0292
 
